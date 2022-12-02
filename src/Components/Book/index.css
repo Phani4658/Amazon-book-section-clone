@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+article{
+    margin:0.8em;  
+}
+
+img{
+    height: 150px;
+}
+.image-container{
+    background-color: #37475A10;
+    border-radius: 7px;
+    height: 180px;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-size: 1em;
+}
